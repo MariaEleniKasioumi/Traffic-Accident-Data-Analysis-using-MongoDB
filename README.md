@@ -1,8 +1,10 @@
 # Traffic-Accident-Data-Analysis-using-MongoDB
 
-- Processed and transformed accident data (unit conversions, schema refinement)  
-- Developed MongoDB queries for geospatial and temporal analysis  
-- Built aggregation pipelines to analyze accident patterns by location and time  
-- Implemented advanced queries using grouping, filtering, and $lookup operations  
-- Compared accident metrics across cities and states to derive insights  
-- Proposed indexing strategies to improve query performance
+- Performed data cleaning and transformation (unit conversions, schema refinement)  
+- Developed aggregation queries to analyze accident patterns across time and location  
+- Implemented geospatial queries to identify incidents within specific regions  
+- Analyzed temporal patterns (hour-of-day, day-of-week) using MongoDB pipelines  
+- Built complex queries using filtering, grouping and $lookup operations  
+- Derived insights by comparing accident metrics across cities and states  
+- Proposed indexing strategies to optimize query performance
+- 
