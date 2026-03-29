@@ -7,4 +7,4 @@
 - Built complex queries using filtering, grouping and $lookup operations  
 - Derived insights by comparing accident metrics across cities and states  
 - Proposed indexing strategies to optimize query performance
-- 
+  
